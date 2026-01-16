@@ -24,6 +24,11 @@ public class Masina
         numarRoti++;
     }
 
+    public int getNumarRoti()
+    {
+        return this.numarRoti;
+    }
+
     public double calculeazaArieTotala()
     {
         int i;

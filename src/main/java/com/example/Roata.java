@@ -15,4 +15,9 @@ public class Roata
 
         return arie;
     }
+
+    public double getRaza() 
+    {
+        return this.raza;
+    }
 }
